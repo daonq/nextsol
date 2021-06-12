@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ca3a376f1ae6f994b814ccf971c5e233
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Daxline
+  fontNames:
+  - UTM Daxline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b8f0f2bff46983947b0adc1c42e069af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
